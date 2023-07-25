@@ -10,8 +10,7 @@
   },
   "homepage": "https://github.com/arthuRHD/aws-log-analysis",
   "dependencies": {
-    "@aws-sdk/client-cloudwatch-logs": "^3.370.0",
-    "@aws-sdk/client-sns": "^3.370.0"
+    "@aws-sdk/client-cloudwatch-logs": "^3.370.0"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.119",
